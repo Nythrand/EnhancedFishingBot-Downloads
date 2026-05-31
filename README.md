@@ -13,6 +13,6 @@ Grab the latest version from the **[Releases](https://github.com/Nythrand/Enhanc
 
 ## Need a license key?
 You get your key from the **Get your license** button in our Discord:
-**https://discord.gg/rF3H4yECc**
+**https://discord.gg/xNG9EmcHTq**
 
 The bot is locked to one PC per key. Changed computers? Open a ticket in the Discord.
