@@ -10,6 +10,10 @@ Both include the BobberAssist addon. **One license key works for both.**
 
 Grab them from the **[Releases](https://github.com/Nythrand/EnhancedFishingBot-Downloads/releases/latest)** section (right side of this page).
 
+## Need a license key?
+Get your key from the **Get your license** button in our Discord:
+**https://discord.gg/rF3H4yECc**
+
 ## How to install
 1. Download the version you want from the latest release.
 2. Right-click the zip → **Extract All** (don't run it from inside the zip).
@@ -20,9 +24,7 @@ Grab them from the **[Releases](https://github.com/Nythrand/EnhancedFishingBot-D
    - **Basic:** `cast.bat` (with jumps) or `cast_no_jumps.bat` (no jumps)
 5. Paste your license key when asked.
 
-## Need a license key?
-Get your key from the **Get your license** button in our Discord:
-**https://discord.gg/rF3H4yECc**
+
 
 ## Notes
 - Your key locks to **one PC** at a time. Switching computers? Use the **🔄 Reset my PC** button in the Discord — instant, no waiting.
